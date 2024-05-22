@@ -2,7 +2,7 @@ wkhtml2pdf
 ==========
 ![Latest Build Status](https://travis-ci.org/NitMedia/wkhtml2pdf.svg?branch=master)
 
-Version 1.0 - Html to PDF Composer Package
+Version 1.0 - Html to PDF Composer Package. This version works with PHP 8.1
 
 #Usage#
 
@@ -25,7 +25,7 @@ Version 1.0 - Html to PDF Composer Package
 
 In the `require` key of `composer.json` file add the following
 
-    "nitmedia/wkhtml2pdf": "dev-master"
+    "nitmedia/wkhtml2pdf": "^2.1"
 
 Run the Composer update comand
 
